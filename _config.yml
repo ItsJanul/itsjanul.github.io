@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Big Dawgs"
+  name             : "Janul Hernandez"
   avatar           : "https://pbs.twimg.com/profile_images/779502161067671553/I6D8unow.jpg"
   bio              : "Stern MBA student."
   location         : "New York City"
@@ -89,18 +89,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : ItsJanul
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : janulhernandez
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : ItsJanul
   vine             :
   weibo            :
   xing             :
