@@ -1,7 +1,8 @@
 ---
-title: About Me
-tags: [about]
-comments: false
+permalink: /about/
+title: "About"
+excerpt: "Figure out the about page"
+modified: 2017-03-22
 ---
 
-Just a regular dude with a dog and a girl.
+Just a guy with a girl and a dog
